@@ -10,4 +10,3 @@ print("Van max speed: {}".format(van.get_max_speed()))
 
 lorry = factory_pythonic.get_vehicle('lorry')
 print("Lorry max speed: {}".format(lorry.get_max_speed()))
-
