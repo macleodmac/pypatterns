@@ -1,5 +1,5 @@
-from creational.abstract_factory.vehicles import Car, Lorry, Van
 from creational.abstract_factory.trailers import BikeTrailer, LongTrailer, ExtraLongTrailer
+from creational.abstract_factory.vehicles import Car, Lorry, Van
 
 
 class VehicleFactory(object):
